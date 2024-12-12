@@ -1,4 +1,4 @@
-class solution{
+class day1{
   public int secondLargest(int[] arr{
     int n=arr.length;
     int l=-1;
