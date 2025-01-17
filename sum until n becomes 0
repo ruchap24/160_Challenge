@@ -27,7 +27,7 @@ class GfG {
 }
 
 
-// expected - mathematical approach
+// expected - mathematical approach - O(1)
 class GfG {
     static int singleDigit(int n) {
   
